@@ -1,5 +1,5 @@
 # NumericalCalculator
-Calculator finds the results of most of the operations performed by numerical methods
+A Calculator finds the results of most of the operations performed by numerical methods
 
 
 OPERATIONS THE PROGRAM CAN PERFORM:	
