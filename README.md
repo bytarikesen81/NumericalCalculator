@@ -12,16 +12,16 @@ OPERATIONS THE PROGRAM CAN PERFORM:
 
 4-Solving a System of Linear Equations with Gauss-Seidel Elimination Method
 
-5-Interpolation Calculation with Gregory-Newton Method
+5-Calculating Newton's Forward Interpolation
 
-6-Calculation the Inverse of the Input Matrix
+6-Calculating the Inverse of an Input Matrix
 
-7-Calculation the Numerical Differentation of an Input Function
+7-Calculating the Numerical Differentation of an Input Function
 
-8-Root Finding with Newton-Raphson
+8-Root Finding with the Newton-Raphson Method
 
 9-Calculating the Approximate Value of the Root with the Secant Method
 
 10-Calculating Numerical Integration by Using Simpson's 1/3 Rule
 
-11-Calculating Numerical Integration  by Using Trapezoidal Rule
+11-Calculating Numerical Integration by Using Trapezoidal Rule
