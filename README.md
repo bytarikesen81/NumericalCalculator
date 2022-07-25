@@ -1,6 +1,7 @@
 # NumericalCalculator
 Calculator finds the results of most of the operations performed by numerical methods
 
+
 OPERATIONS THE PROGRAM CAN PERFORM:	
 
 1-Finding Roots in a Selected Interval with the Bisection Method
